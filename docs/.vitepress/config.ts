@@ -15,10 +15,25 @@ export default {
 	lastUpdated: true,
 	themeConfig: {
 		logo: "/logo.svg",
-		algolia: {
-			appId: "YMXN47DKMJ",
-			apiKey: "8bf7d8e2b7e7b32a95f5aec9aca38a70",
-			indexName: "Geeker-Admin",
+		// algolia: {
+		// 	appId: "YMXN47DKMJ",
+		// 	apiKey: "8bf7d8e2b7e7b32a95f5aec9aca38a70",
+		// 	indexName: "Geeker-Admin",
+		// },
+		search: {
+			provider: 'local', // 可以开启本地搜索
+			// provider: "algolia",
+			// options: {
+			// 	appId: "你的appId",
+			// 	apiKey: "你的apiKey",
+			// 	indexName: "你的indexName",
+			// 	placeholder: "请输入关键词",
+			// 	translations: {
+			// 		button: {
+			// 			buttonText: "请输入关键词",
+			// 		},
+			// 	},
+			// },
 		},
 		editLink: {
 			text: "为此页提供修改建议",
