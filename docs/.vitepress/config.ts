@@ -21,19 +21,19 @@ export default {
 		// 	indexName: "Geeker-Admin",
 		// },
 		search: {
-			provider: 'local', // 可以开启本地搜索
-			// provider: "algolia",
-			// options: {
-			// 	appId: "你的appId",
-			// 	apiKey: "你的apiKey",
-			// 	indexName: "你的indexName",
-			// 	placeholder: "请输入关键词",
-			// 	translations: {
-			// 		button: {
-			// 			buttonText: "请输入关键词",
-			// 		},
-			// 	},
-			// },
+			//provider: 'local', // 可以开启本地搜索
+			provider: "algolia",
+			options: {
+				appId: "J67WNULBFG",
+				apiKey: "f1e6e7b8838def671add427b0412e596",
+				indexName: "lusxh",
+				placeholder: "请输入关键词lusxh",
+				translations: {
+					button: {
+						buttonText: "请输入关键词lusxh.",
+					},
+				},
+			},
 		},
 		editLink: {
 			text: "为此页提供修改建议",
