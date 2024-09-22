@@ -21,8 +21,8 @@ export default {
 		// 	indexName: "Geeker-Admin",
 		// },
 		search: {
-			//provider: 'local', // 可以开启本地搜索
-			provider: "algolia",
+			provider: 'local', // 可以开启本地搜索
+			// provider: "algolia",
 			options: {
 				appId: "J67WNULBFG",
 				apiKey: "f1e6e7b8838def671add427b0412e596",
