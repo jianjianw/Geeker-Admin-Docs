@@ -27,7 +27,7 @@ export default {
 		socialLinks: [{ icon: "github", link: "https://github.com/HalseySpicy/Geeker-Admin" }],
 		footer: {
 			message: "MITライセンス。",
-			copyright: "Copyright © 2022 Geeker-Admin",
+			copyright: "Copyright © 2024 至简CRM",
 		},
 		nav: [
 			{ text: "ガイド", link: "/guide/", activeMatch: "/guide" },

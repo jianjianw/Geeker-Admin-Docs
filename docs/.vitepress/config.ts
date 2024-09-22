@@ -1,12 +1,12 @@
 import mdItCustomAttrs from "markdown-it-custom-attrs";
 
 export default {
-	title: "Geeker-Admin",
+	title: "至简CRM",
 	lang: "zh-CN",
-	description: "Geeker Admin 中文文档",
+	description: "至简CRM 中文文档",
 	head: [
-		["meta", { name: "author", content: "HalseySpicy" }],
-		["meta", { name: "keywords", content: "Geeker, Geeker-Admin, Geeker-Admin-Docs, Vite, Vue, Vue3, Admin" }],
+		["meta", { name: "author", content: "至简CRM" }],
+		["meta", { name: "keywords", content: "CRM, 至简CRM, 至简CRM-Docs, Vite, Vue, Vue3, Admin" }],
 		["link", { rel: "icon", href: "/logo.svg" }],
 		["link", { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" }],
 		["script", { src: "https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js" }],
@@ -42,7 +42,7 @@ export default {
 		socialLinks: [{ icon: "github", link: "https://github.com/HalseySpicy/Geeker-Admin" }],
 		footer: {
 			message: "MIT License.",
-			copyright: "Copyright © 2022 Geeker-Admin",
+			copyright: "Copyright © 2024 至简CRM",
 		},
 		nav: [
 			{ text: "指南", link: "/guide/", activeMatch: "/guide" },

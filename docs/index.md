@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Geeker-Admin
-titleTemplate: 一款简单易用的中后台模版
+title: 至简CRM
+titleTemplate: 一款简单易用的企业管理软件
 
 hero:
-  name: Geeker-Admin
-  text: 简单易用的中后台模版
-  tagline: 基于 Vue3.3 + Vite4 + TS + Pinia + Element-Plus
+  name: 至简CRM
+  text: 简单易用企业管理软件
+  tagline: 客户管理+协同办公+价格走势预判+数据驱动+业务流程精细化管理
   actions:
     - theme: brand
       text: 快速上手
