@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: 至简CRM
+title: 链接CRM
 titleTemplate: 一款简单易用的企业管理软件
 
 hero:
-  name: 至简CRM
+  name: 链接CRM
   text: 简单易用企业管理软件
   tagline: 客户管理+协同办公+价格走势预判+数据驱动+业务流程精细化管理
   actions:
